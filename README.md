@@ -1,4 +1,4 @@
-#Task 1: Perform Basic Mathematical Operations
+# Task 1: Perform Basic Mathematical Operations
 
 ## Description:
 This script prompts the user to enter two numbers and then performs the following operations:
