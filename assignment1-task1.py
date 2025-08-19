@@ -1,3 +1,4 @@
+#Perform basic arithmetic operations
 a = int(input("Enetr first number:"))
 b = int(input("Enetr second number:"))
 
